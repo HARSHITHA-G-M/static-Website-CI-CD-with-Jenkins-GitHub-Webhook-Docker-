@@ -1,1 +1,1 @@
-# tatic-Website-CI-CD-with-Jenkins-GitHub-Webhook-Docker-
+# static-Website-CI-CD-with-Jenkins-GitHub-Webhook-Docker-
